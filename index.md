@@ -28,7 +28,7 @@ document.write(today);
 
 ## Presentation slides at UConn Math REU 2020
 
-+ *Tamari and Cambrian lattices*, presented by R. Silver [Slides for REU Conference July 30, 2020](main.pdf)
++ *Tamari and Cambrian lattices*, presented by R. Silver [Slides for REU Conference July 30, 2020](slides.pdf)
 
 ## Presentation videos
 
